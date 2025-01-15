@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my HomePage,
+
+My Name is Mitch and I am a Marketing Researcher with an interest in AI 
+
+I am currently learning GitHub :)
+
+
 <!--
 **Mitch42512/Mitch42512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
